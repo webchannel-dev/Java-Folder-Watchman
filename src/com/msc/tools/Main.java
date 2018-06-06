@@ -25,7 +25,7 @@
  * Software for such purposes.
  *
  *
- * @author : MavajSunCo (Ali Jamali)
+ * @author : MavajSunCo
  * @Email : info@MavajSunCo.com
  * @Website : www.MavajSunCo.com
  * @Date : 12-JUN-2012
